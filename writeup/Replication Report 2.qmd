@@ -24,38 +24,49 @@ To replicate this experiment, we will conduct two studies: the first study will 
 Challenges that may arise include ineffectiveness of hypothetical scenarios as they may not trigger financial concerns for low-income participants because the scenarios are not real. As for the second study, we might not be able to measure the cognition of farmers before and after harvesting season, but instead measure that of those who are paid in a shorter period of time (monthly). Cognition measures may be inaccurate due to external factors such as mental health, familial issues, and more, but may be excluded due to random assignment. 
 
 ## Links 
-GitHub: https://github.com/psych251/huynh2023
+<!-- GitHub: https://github.com/psych251/huynh2023 -->
 
 Original paper: https://github.com/psych251/mani2013_/blob/main/original_paper/science.1238041.pdf
 
 
 ## Methods
 
+First, we will be using Prolific to recruit participants from different financial backgrounds, ideally ranging from $20,000 to $70,000. Although not specified in the original Mani et. al., 2013, study, we hope that our sample will have varying salaries in order to compare those in the lower end and the higher end. After recruiting participants, we will direct them to Qualtrics to retrieve survey responses on their decisions upon given hypothetical scenarios that target financial problems. To ensure that participants understand the given scenarios, we will administer comprehension-check questions after each financial scenario before proceeding to their responses. Participants will be randomly assigned either the easy condition or the hard condition of the financial scenario. Upon completing the scenarios, participants will be assigned two tasks: Raven's Progressive Matrices and a spatial incompatibility test. These tasks will be used to measure participants' cognitive capacities after some hypothetical hardships. 
+
 ### Power Analysis
 
-Original effect size, power analysis for samples to achieve 80%, 90%, 95% power to detect that effect size.  Considerations of feasibility for selecting planned sample size.
+The original study had an effect size of d = 0.88 with 95% power and a 0.05 aloha level. With that being said, the minimum sample size should contain at least 20 total participants in each condition (hard, easy). 
 
 ### Planned Sample
 
-Planned sample size and/or termination rule, sampling frame, known demographics if any, preselection rules if any.
+<!-- Planned sample size and/or termination rule, sampling frame, known demographics if any, preselection rules if any. -->
+We hope to draw in participants of all gender identities, namely, male/female/non-binary, so long as they report their annual income. The original study does not provide an age range for participants, but we hope to recruit participants between 25-40 years old. With this age range, perhaps participants will have more financial security or a steady income, to rule our outliers that may be hopping between jobs. 
 
 ### Materials
 
-All materials - can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+<!-- All materials - can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article. -->
+As noted in our Methods, participants will be recruited using Prolific, where they will be redirected to Cognition.Run where they will undergo a pre-screening to ensure that they are not actively students. Once directed to Cognition.Run, participants will be given a consent agreement. Participants will then be tasked to contemplate and answer hypothetical financial scenarios, then assigned a non-verbal cognitive task (spatial compatibility). 
 
 ### Procedure	
 
-Can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+<!-- Can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article. -->
+"In experiment 1, participants (n = 101) were presented with four hypothetical scenarios a few minutes apart. Each scenario described a financial problem the participants might experience. For example: “Your car is having some trouble and requires $X to be fixed. You can pay in full, take a loan, or take a chance and forego the service at the moment... How would you go about making this decision?” These scenarios, by touching on monetary issues, are meant to trigger thoughts of the participant’s own finances. They are intended to bring to the forefront any nascent, easy to activate, financial concerns. After viewing each scenario, and while thinking about how they might go about solving the problem, participants performed two computerbased tasks used to measure cognitive function: Raven’s Progressive Matrices and a spatial compatibility task. The Raven’s test involves a sequence of shapes with one shape missing (27).
+
+Participants must choose which of several alternatives best fits in the missing space. Raven’s test is a common component in IQ tests and is used to measure “fluid intelligence,” the capacity to think logically and solve problems in novel situations, independent of acquired knowledge (28, 29). The spatial incompatibility task requires participants to respond quickly and often contrary to their initial impulse. Presented with figures on the screen, they must press the same side in response to some stimuli but press the opposite side in response to others. The speed and accuracy of response measures cognitive control (30), the ability to guide thought and action in accordance with internal goals (31). Both are nonverbal tasks, intended to minimize the potential impact of literacy skills. Upon completion of these tasks, participants responded to the original scenario by typing their answers on the computer or speaking to a tape recorder and then moved on to the next scenario (an analysis of participants’ responses to the scenarios is available in table S1). We also collected participants’ income information at the end of the experiment. Participants were randomly assigned either to a “hard” condition, in which the scenarios involved costs that were relatively high (for example, the car would require $1500 to fix); or to an “easy” condition, where costs were lower (for example, the car would require $150 to fix). Because the sums in the easy condition are small, we expected this condition to evoke few of one’s own monetary concerns, for either poor or rich participants. In contrast, the large sums in the hard condition, we hypothesized, would evoke monetary concerns in the poor but not in the rich participants." 
+
+Our procedure is similar to that of the original study, as it will implement similar, if not same, hypothetical financial scenarios followed by one cognitive function task, the one being spatial compatibility. Depending on the program we use to conduct the cognitive function tasks, we may or may not be able to record the duration spent on each test. 
 
 ### Analysis Plan
 
-Can also quote directly, though it is less often spelled out effectively for an analysis strategy section.  The key is to report an analysis strategy that is as close to the original - data cleaning rules, data exclusion rules, covariates, etc. - as possible.  
+<!-- Can also quote directly, though it is less often spelled out effectively for an analysis strategy section.  The key is to report an analysis strategy that is as close to the original - data cleaning rules, data exclusion rules, covariates, etc. - as possible.   -->
+We will plot the Standard Mean Error for the measured performance of each cognitive task, comparing the results of low-income and high-income participants and their accuracy of each task (Raven's Matrices, Spatial Compatibility Task). 
 
 **Clarify key analysis of interest here**  You can also pre-specify additional analyses you plan to do.
 
 ### Differences from Original Study
 
-Explicitly describe known differences in sample, setting, procedure, and analysis plan from original study.  The goal, of course, is to minimize those differences, but differences will inevitably occur.  Also, note whether such differences are anticipated to make a difference based on claims in the original article or subsequent published research on the conditions for obtaining the effect.
+<!-- Explicitly describe known differences in sample, setting, procedure, and analysis plan from original study.  The goal, of course, is to minimize those differences, but differences will inevitably occur.  Also, note whether such differences are anticipated to make a difference based on claims in the original article or subsequent published research on the conditions for obtaining the effect. -->
+In this study, we understand that it may not be plausible to record information on the farmer population in India, so we will not be able to test the impact of financial burdens on the same participants before and after harvest, or in other words, before and after farmers get paid. However, we might be able to test the cognitive capacities of the same participants before and after they are paid, depending on the dispursement of their paycheck (weekly, bi-weekly, monthly). Perhaps there will be a difference in cognitive capacity before and after participants are paid, even if there is a shorter duration between their checks. It is notable that we will be using Qualtrics to gather survey responses, which may or may not encourage falsity in terms of income. Using an online platform may also affect the results as a whole since not everyone who is low-income or high-income may have the time to participate in this study, let alone be exposed to it. 
 
 ### Methods Addendum (Post Data Collection)
 
@@ -73,23 +84,360 @@ You can comment this section out prior to final report with data collection.
 
 ### Data preparation
 
-Data preparation following the analysis plan.
-	
-```{r include=F}
+We want to read the dataframe from our Qualtric responses, as well as the scores received from the cognition tasks. First, we have to tidy the data and organize participants' demographics including: age, gender identity, income, and so on. It would be valuable to do this as it will allow us to potentially make inferences about each social aspect. We will not include participants that do not answer all of the required questions on Qualtrics (like annual income), as this will affect the cognitive capacity scores due to the ambiguity of their socio-economic status. 
+
+```{r}
 ### Data Preparation
 
 #### Load Relevant Libraries and Functions
+library(tidyverse)
+library(ggpubr)
 
-#### Import data
-
-#### Data exclusion / filtering
-
-#### Prepare data for analysis - create columns etc.
 ```
 
-### Confirmatory analysis
+```{r}
+#### Import data
 
-The analyses as specified in the analysis plan.  
+easy_data <- read_csv("mani2013-demo-easy-condition.csv")
+hard_data <- read_csv("mani2013-demo-hard-condition.csv")
+
+```
+
+
+```{r include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+# filter columns to ensure DF are the same size
+easy_data_filtered <- easy_data %>%
+  select(c(PROLIFIC_PID,
+           run_id,
+           trial_index,
+           subject_id,
+           group,
+           rt,
+           response,
+           task,
+           correct_response,
+           accuracy,
+           block))
+
+hard_data_filtered <- hard_data %>%
+  select(c(PROLIFIC_PID,
+           run_id,
+           trial_index,
+           subject_id,
+           group,
+           rt,
+           response,
+           task,
+           correct_response,
+           accuracy,
+           block))
+
+data <- rbind(easy_data_filtered, hard_data_filtered) # merge into one file
+
+############################################
+#####   CLEANING DATA FOR ANALYSIS     #####
+############################################ 
+
+# remove JSON text from survey responses
+data$response <- gsub('\\{"Q0":"','', data$response)
+data$response <- gsub('"\\}', '', data$response)
+data$response <- gsub("100000+", "100000", data$response)
+
+# filter data and remove NAs
+
+data_filtered <- data %>%
+  filter(group == "HARD" |
+           group == "EASY",
+         !is.na(PROLIFIC_PID))
+
+data_filtered <- within(data_filtered, response[response == "100000+"] <- 100000)
+data_filtered <- within(data_filtered, response[response == "10+"] <- 10)
+
+######   INCOME AND SES ANALYSIS     #####
+
+# determine SES groups using federal poverty guidelines
+income_data <- data_filtered %>%
+  select(c(PROLIFIC_PID,
+           run_id,
+           task,
+           response)) %>%
+  filter(task == "household_size" |
+           task == "income") %>%
+  filter(run_id != 36) %>% # something happening with participant ID
+  pivot_wider(names_from = "task", 
+              values_from = "response") %>%
+  mutate(ses_group = case_when(as.numeric(income) < 12880 & as.numeric(household_size) == 1 ~ "POOR",
+                               as.numeric(income) < 17420 & as.numeric(household_size) == 2 ~ "POOR",
+                               as.numeric(income) < 21960 & as.numeric(household_size) == 3 ~ "POOR",
+                               as.numeric(income) < 26500 & as.numeric(household_size) == 4 ~ "POOR",
+                               as.numeric(income) < 31040 & as.numeric(household_size) == 5 ~ "POOR",
+                               as.numeric(income) < 35580 & as.numeric(household_size) == 6 ~ "POOR",
+                               as.numeric(income) < 40120 & as.numeric(household_size) == 7 ~ "POOR",
+                               as.numeric(income) < 44660 & as.numeric(household_size) == 8 ~ "POOR",
+                               as.numeric(income) < 49200 & as.numeric(household_size) == 9 ~ "POOR",
+                               as.numeric(income) < 53740 & as.numeric(household_size) == 10 ~ "POOR",
+                               as.numeric(income) > 12880 & as.numeric(household_size) == 1 ~ "RICH",
+                               as.numeric(income) > 17420 & as.numeric(household_size) == 2 ~ "RICH",
+                               as.numeric(income) > 21960 & as.numeric(household_size) == 3 ~ "RICH",
+                               as.numeric(income) > 26500 & as.numeric(household_size) == 4 ~ "RICH",
+                               as.numeric(income) > 31040 & as.numeric(household_size) == 5 ~ "RICH",
+                               as.numeric(income) > 35580 & as.numeric(household_size) == 6 ~ "RICH",
+                               as.numeric(income) > 40120 & as.numeric(household_size) == 7 ~ "RICH",
+                               as.numeric(income) > 44660 & as.numeric(household_size) == 8 ~ "RICH",
+                               as.numeric(income) > 49200 & as.numeric(household_size) == 9 ~ "RICH",
+                               as.numeric(income) > 53740 & as.numeric(household_size) == 10 ~ "RICH"))
+
+income_data$ses_group <- factor(income_data$ses_group, levels = c("POOR",
+                                                                  "RICH"))
+
+data_filtered <- merge(data_filtered, income_data, by = c('PROLIFIC_PID')) # add to main dataframe
+
+####   AGE, RACE, & GENDER ANALYSIS     ####
+demo_data <- data_filtered %>%
+  filter(task == "demographic") %>%
+  separate(response, c("Age", "DOB", "Race", "Gender"), sep = "([,])") %>%
+  select(PROLIFIC_PID,
+         Age,
+         DOB,
+         Race,
+         Gender)
+
+# remove JSON text from survey responses
+demo_data$Age <- gsub('"', '', as.character(demo_data$Age))
+demo_data$DOB <- gsub('"Q1":"', '', demo_data$DOB)
+demo_data$DOB <- gsub('"', '', demo_data$DOB)
+demo_data$Race <- gsub('"Q2":"', '', demo_data$Race)
+demo_data$Race <- gsub('"', '', demo_data$Race)
+demo_data$Gender <- gsub('"Q3":"', '', demo_data$Gender)
+
+# updating Gender Column
+
+demo_data$Gender <- gsub("[Mm]ale", "M", demo_data$Gender)
+demo_data$Gender <- gsub("Man", "M", demo_data$Gender)
+demo_data$Gender <- gsub("Woman", "F", demo_data$Gender)
+demo_data$Gender <- gsub("[Ff]emale", "F", demo_data$Gender)
+demo_data$Gender <- gsub("[Ff]eM", "F", demo_data$Gender)
+demo_data$Gender <- gsub("femme", "F", demo_data$Gender)
+demo_data$Gender <- gsub("non binary", "NB", demo_data$Gender)
+demo_data$Gender <- gsub('"Q3":', "", demo_data$Gender)
+
+# add demo data to main dataframe
+data_filtered <- merge(data_filtered, demo_data, by = c('PROLIFIC_PID')) 
+
+###########   CLEANING DATA    #############
+
+# this separates data by block per participant
+clean_data <- data_filtered %>%
+  filter(task == "response") %>%
+  group_by(PROLIFIC_PID, group, ses_group, block, 
+           income, Age, Gender) %>%
+  summarize(mean_acc = mean(as.numeric(accuracy)),
+            mean_rt = mean(as.numeric(rt)),
+            acc_sd = sd(as.numeric(accuracy)),
+            acc_n_obs = length(as.numeric(accuracy)),
+            acc_sem = acc_sd / sqrt(acc_n_obs),
+            acc_ci = acc_sem * 1.96,
+            rt_sd = sd(as.numeric(rt)),
+            rt_n_obs = length(as.numeric(rt)),
+            rt_sem = rt_sd / sqrt(rt_n_obs),
+            rt_ci = rt_sem * 1.96
+            )
+```
+
+```{r}
+# this has the overall average performance between all trials for each participant
+cleaner_data <- data_filtered %>%
+  filter(task == "response") %>%
+  group_by(PROLIFIC_PID, group, ses_group, 
+           income, Age, Gender) %>%
+  summarize(mean_acc = mean(as.numeric(accuracy)),
+            mean_rt = mean(as.numeric(rt)),
+            acc_sd = sd(as.numeric(accuracy)),
+            acc_n_obs = length(as.numeric(accuracy)),
+            acc_sem = acc_sd / sqrt(acc_n_obs),
+            acc_ci = acc_sem * 1.96,
+            rt_sd = sd(as.numeric(rt)),
+            rt_n_obs = length(as.numeric(rt)),
+            rt_sem = rt_sd / sqrt(rt_n_obs),
+            rt_ci = rt_sem * 1.96
+  )
+```
+
+```{r}
+# change age and income to numeric
+cleaner_data$Age <- as.numeric(cleaner_data$Age)
+cleaner_data$income <- as.numeric(cleaner_data$income)
+
+############################################
+###########   TASK ANALYSIS    #############
+############################################ 
+
+#########   DEMOGRAPHIC ANALYSIS    ############
+age_graph <- ggplot(cleaner_data, aes(x = Age)) +
+  geom_bar() + 
+  scale_y_continuous(breaks = seq(0, 1, 1)) +
+  ggtitle("Distribution by age") + 
+  ylab("# of Participants")
+age_graph
+```
+```{r}
+# What is the average age? 26.05 (rounded)
+mean(cleaner_data$Age, na.rm = TRUE) # some did not report age
+```
+
+```{r}
+income_graph <- ggplot(cleaner_data, aes(x = income)) + 
+  geom_bar() +
+  ggtitle("Income Distribution") + 
+  ylab("# of Participants") + xlab("Approximate Total Income (thousands)")
+income_graph
+```
+
+```{r}
+# What is the average income? 33,222.22 
+mean(cleaner_data$income) # no NA since they were removed
+```
+
+```{r}
+# What is the total gender breakdown? # 21 F, 21, M, 2 NB, 1 omitted
+gender_table <- demo_data %>%
+  group_by(Gender) %>%
+  summarise(total = n())
+
+#########   OVERALL ANALYSIS    ############
+
+# this is to create Figure 1: comparing between SES and conditions
+task_perf <- cleaner_data %>%
+  group_by(group, ses_group) %>%
+  summarize(accuracy = mean(mean_acc),
+            rt = mean(mean_rt),
+            acc_sd = sd(mean_acc),
+            acc_n_obs = length(PROLIFIC_PID),
+            acc_sem = acc_sd / sqrt(acc_n_obs),
+            acc_ci = acc_sem * 1.96,
+            rt_sd = sd(mean_rt),
+            rt_n_obs = length(PROLIFIC_PID),
+            rt_sem = rt_sd / sqrt(rt_n_obs),
+            rt_ci = rt_sem * 1.96,
+            mean_age = mean(as.numeric(Age), na.rm = TRUE))
+```
+
+```{r}
+block_perf <- clean_data %>%
+  group_by(group, ses_group, block) %>%
+  summarize(accuracy = mean(mean_acc),
+            rt = mean(mean_rt),
+            acc_sd = sd(mean_acc),
+            acc_n_obs = length(PROLIFIC_PID),
+            acc_sem = acc_sd / sqrt(acc_n_obs),
+            acc_ci = acc_sem * 1.96,
+            rt_sd = sd(mean_rt),
+            rt_n_obs = length(PROLIFIC_PID),
+            rt_sem = rt_sd / sqrt(rt_n_obs),
+            rt_ci = rt_sem * 1.96)
+```
+
+```{r}
+##########   ORIGINAL ANALYSIS    ############
+
+# get only the first three trials from each participant
+row1 <- data_filtered %>%
+  filter(task == "response",
+         block == 1) %>%
+  group_by(PROLIFIC_PID) %>%
+  filter(row_number()==1)
+
+row2 <- data_filtered %>%
+  filter(task == "response",
+         block == 1) %>%
+  group_by(PROLIFIC_PID) %>%
+  filter(row_number()==2)
+
+row3 <- data_filtered %>%
+  filter(task == "response",
+         block == 1) %>%
+  group_by(PROLIFIC_PID) %>%
+  filter(row_number()==3)
+
+# create data frame with each participant and their data
+original_data <- rbind(row1, row2, row3)
+
+# analyze by group and SES
+original_perf <- original_data %>%
+  group_by(group, ses_group) %>%
+  summarize(mean_acc = mean(as.numeric(accuracy)),
+            mean_rt = mean(as.numeric(rt)),
+            acc_sd = sd(as.numeric(accuracy)),
+            acc_n_obs = length(PROLIFIC_PID),
+            acc_sem = acc_sd / sqrt(acc_n_obs),
+            acc_ci = acc_sem * 1.96,
+            rt_sd = sd(as.numeric(rt)),
+            rt_n_obs = length(PROLIFIC_PID),
+            rt_sem = rt_sd / sqrt(rt_n_obs),
+            rt_ci = rt_sem * 1.96)
+```
+
+
+### Confirmatory analysis
+```{r}
+############################################
+######   ACCURACY AND RT FIGURES     #######
+############################################  
+task_perf$group <- factor(task_perf$group, levels = c('HARD', 'EASY'))
+
+# Create Figure 1 - Accuracy Bar Chart
+figure1 <- ggplot(task_perf, aes(x = ses_group, y = accuracy, 
+                                 fill = group)) +
+  geom_bar(position="dodge", stat="identity") + # ADD COLOR-BLIND PALETTE
+  geom_errorbar(aes(ymin = accuracy - acc_ci, 
+                    ymax = accuracy + acc_ci), width=.2,
+                position=position_dodge(.9)) +
+  ggtitle("Figure 1: Accuracy by Group") +
+  ylab("Mean Accuracy (%)") + xlab("SOCIOECONOMIC STATUS") +
+  coord_cartesian(ylim=c(.50,1)) + 
+  scale_fill_manual(values=c("#999999","#D3D3D3"))
+figure1
+```
+
+```{r}
+# Create Figure 2 - Accuracy Regression Chart
+figure2 <- ggplot(cleaner_data, 
+                  aes(x = cleaner_data$income, 
+                      y = as.numeric(cleaner_data$mean_acc),
+                      color = group)) +
+  geom_point() + geom_jitter() + 
+  scale_color_manual(values=c("#000000", "#999999")) +
+  geom_smooth(method=lm, aes(fill = group)) +
+  ggtitle("Figure 2: Accuracy by Income and Group") +
+  labs(y = "Mean Accuracy", x = "Income (in thousands)")
+figure2
+```
+
+
+############################################
+#######    STATISTICAL ANALYSIS     ########
+############################################ 
+
+#######  ANALYSIS OF OVERALL DATA   ########
+
+### TWO-WAY ANOVA
+accuracy_aov <- aov(mean_acc ~ group * ses_group,
+                    cleaner_data)
+summary(accuracy_aov)
+
+
+### Regression Analysis
+accuracy_model <- lm(mean_acc ~ group * ses_group, 
+                     cleaner_data)
+summary(accuracy_model)
+
+
+
+To confirm that there are differences between low-income and high-income groups, we will be using a t-test to measure the differences of cognitive capacity scores, hoping to see variation among scores depending on the participants' income. The t-test will allow us to confirm whether or not there is significance in our result against the null hypothesis. Mani et. al., 2013, claims that low-income populations are cognitively impacted by financial stress, as opposed to high-income populations. To test this hypothesis, researchers assigned cognitive capacity tests and well as a spatial incompatibility task to compare the differences in scores. 
 
 *Side-by-side graph with original graph is ideal here*
 
@@ -97,7 +445,109 @@ The analyses as specified in the analysis plan.
 
 Any follow-up analyses desired (not required).  
 
+```{r}
+# Create Figure 3 - RT Bar Chart
+figure3 <- ggplot(task_perf, aes(x = ses_group, y = rt, 
+                                 fill = group)) +
+  geom_bar(position="dodge", stat="identity") + 
+  geom_errorbar(aes(ymin = rt - rt_ci, 
+                    ymax = rt + rt_ci), width=.2,
+                position=position_dodge(.9)) +
+  ggtitle("Figure 3: Reaction Time by Group") +
+  ylab("RT (ms)") + xlab("SOCIOECONOMIC STATUS") + 
+  scale_fill_manual(values=c("#D3D3D3", "#999999"))
+figure3 
+```
+
+### TWO-WAY ANOVA
+rt_aov <- aov(mean_rt ~ group * ses_group,
+                    cleaner_data)
+summary(rt_aov)
+
+```{r}
+figure4 <- ggplot(cleaner_data, 
+                  aes(x = as.numeric(cleaner_data$income), 
+                      y = as.numeric(mean_rt),
+                      color = group)) +
+  geom_point() + geom_jitter() + 
+  scale_color_manual(values=c("#000000", "#999999")) +
+  geom_smooth(method=lm, aes(fill = group)) +
+  ggtitle("Figure 4: Reaction Time by Income and Group") +
+  labs(y = "Mean Reaction Time (ms)", x = "Income (in thousands)")
+figure4
+```
+
+
+rt_model <- lm(mean_rt ~ group * ses_group, 
+                     cleaner_data)
+summary(rt_model)
+
+
+```{r}
+# Create Figure 5 - Accuracy by Block
+figure5 <- ggplot(block_perf, aes(x = ses_group, 
+                                  y = accuracy,
+                                  fill = group)) +
+  geom_bar(position="dodge", stat="identity") + 
+  geom_errorbar(aes(ymin = accuracy - acc_ci, 
+                    ymax = accuracy + acc_ci), width=.2,
+                position=position_dodge(.9)) +
+  facet_wrap(~ block) +
+  ggtitle("Figure 5: Accuracy by Block") +
+  ylab("Accuracy (mean %)") + xlab("SOCIOECONOMIC STATUS")
+figure5
+```
+
+
+accuracy_block_model <- lm(mean_acc ~ group + ses_group + block, clean_data)
+summary(accuracy_block_model)
+
+
+```{r}
+# Create Figure 6 - Reaction Time by Block
+figure6 <- ggplot(block_perf, aes(x = ses_group, 
+                                  y = rt, 
+                                  fill = group)) +
+  geom_bar(position="dodge", stat="identity") +
+  geom_errorbar(aes(ymin = rt - rt_ci, 
+                    ymax = rt + rt_ci), width=.2,
+                position=position_dodge(.9)) +
+  facet_wrap(~ block) + 
+ggtitle("Figure 6: Reaction Time by Block") +
+  ylab("RT (ms)") + xlab("SOCIOECONOMIC STATUS")
+figure6
+```
+
+
+# regression analysis for block, group, income on RT
+rt_block_model <- lm(mean_rt ~ group + ses_group + block, clean_data)
+summary(rt_block_model)
+
+
+```{r}
+# Create Figure 7 - Accuracy Bar Chart (Original Analysis)
+figure7 <- ggplot(original_perf, aes(x = ses_group, y = mean_acc, 
+                                 fill = group)) +
+  geom_bar(position="dodge", stat="identity") + # ADD COLOR-BLIND PALETTE
+  geom_errorbar(aes(ymin = mean_acc - acc_ci, 
+                    ymax = mean_acc + acc_ci), width=.2,
+                position=position_dodge(.9)) +
+  ggtitle("Figure 7: Accuracy by Group — Original Analysis Plan") +
+  ylab("Mean Accuracy (%)") + xlab("SOCIOECONOMIC STATUS") +
+  coord_cartesian(ylim=c(.50,1)) + 
+  scale_fill_manual(values=c("#999999","#D3D3D3"))
+figure7
+```
+
+
+accuracy_original_model <- aov(accuracy ~ group * ses_group, original_data)
+summary(accuracy_original_model)
+
+
+
 ## Discussion
+
+
 
 ### Summary of Replication Attempt
 
